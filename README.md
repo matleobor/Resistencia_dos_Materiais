@@ -1,2 +1,1 @@
-Trabalhos computacionais da disciplina EM406 (Resistência dos Materiais I). Todos os códigos estão em MATLAB e devem dar uma ideia de como 
-aplicar a programação em MATLAB à disciplina.
+Trabalhos computacionais da disciplina EM406 (Resistência dos Materiais I) da FEM - Unicamp. Todos os códigos estão em MATLAB e devem dar uma ideia de como aplicar a programação em MATLAB à disciplina. Os trabalhos 2 e 3 são implementados através do método das seções, possuindo loops que consomem bastante tempo de programação (a presença das matrizes contendo todos os valores era exigida). Já o trabalho 4 foi implementado utilizando-se o método da equação diferencial para vigas, tornando o programa bem mais rápido.
